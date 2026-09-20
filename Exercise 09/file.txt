@@ -1,0 +1,12 @@
+previsione	  -3.7
+cucina 		  1.23
+dado		  6.78
+opera		  3
+supercalifragili  -10
+comenondetto	  -11.1
+zeroassoluto	  0
+zeromeno1	  -1
+unpo		  200.3
+senzanessuno	  -2.5
+cent		  -1.1
+cico		  -1000

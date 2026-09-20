@@ -1,0 +1,8 @@
+pippo 2 5
+paperino 1 10
+paperino 5 7
+toodles 3 10
+clarabella 2 15
+pluto 10 20
+paperina 1 6
+minnie 8 16
